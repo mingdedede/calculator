@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff0033cc"
+    android:orientation="vertical"
+    android:padding="4dp" >
+
+    <TextView
+        android:id="@+id/labelUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffff0066"
+        android:text="Joe Android"
+        android:textColor="#ff000000"
+        android:textSize="16dp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/ediName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="18sp" >
+    </EditText>
+
+    <Button
+        android:id="@+id/btnGo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:text="Go"
+        android:textStyle="bold" >
+    </Button>
+
+</LinearLayout>

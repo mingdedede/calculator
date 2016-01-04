@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_linearlayout.xml",
+        "source": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\src\\main\\res\\layout\\main_linearlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_relative.xml",
+        "source": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\src\\main\\res\\layout\\main_relative.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_scrollview.xml",
+        "source": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\src\\main\\res\\layout\\main_scrollview.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_tablelayout.xml",
+        "source": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\src\\main\\res\\layout\\main_tablelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_gridlayout.xml",
+        "source": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\src\\main\\res\\layout\\main_gridlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_absolutelayout.xml",
+        "source": "C:\\Users\\James\\AndroidStudioProjects\\07-LayoutDemo\\app\\src\\main\\res\\layout\\main_absolutelayout.xml"
+    }
+]

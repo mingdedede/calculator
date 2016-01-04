@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff000099" >
+
+    <TextView
+        android:id="@+id/lblUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#ffff0066"
+        android:text="Joe Android"
+        android:textColor="#ff000000"
+        android:textStyle="bold" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/ediUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/lblUserName"
+        android:padding="20dp" >
+    </EditText>
+
+    <Button
+        android:id="@+id/btnGo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/ediUserName"
+        android:layout_below="@id/ediUserName"
+        android:text="Go"
+        android:textStyle="bold" >
+    </Button>
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ediUserName"
+        android:layout_toLeftOf="@id/btnGo"
+        android:text="Cancel"
+        android:textStyle="bold" >
+    </Button>
+
+    <TextView
+        android:id="@+id/lblOwner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="Property of CS480"
+        android:textColor="#ffff0000"
+        android:textSize="18sp"
+        android:textStyle="bold" >
+    </TextView>
+
+</RelativeLayout>
