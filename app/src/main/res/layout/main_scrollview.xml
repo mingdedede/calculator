@@ -43,7 +43,7 @@
             android:text="Line2"
             android:textSize="70sp" />
 
-        <TextView
+        <View
             android:layout_width="match_parent"
             android:layout_height="6dp"
             android:background="#ffccffcc" />
